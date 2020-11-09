@@ -52,8 +52,13 @@ _LOGGER = logging.getLogger(__name__)
 SUCCESS = ["ok"]
 
 MODEL_AIRCONDITION_MA2 = "xiaomi.aircondition.ma2"
+MODEL_AIRCONDITION_MA4 = "xiaomi.aircondition.ma4"
+MODEL_AIRCONDITION_MA6 = "xiaomi.aircondition.ma6"
 
-MODELS_SUPPORTED = [MODEL_AIRCONDITION_MA2]
+MODELS_SUPPORTED = [MODEL_AIRCONDITION_MA2,
+                    MODEL_AIRCONDITION_MA4,
+                    MODEL_AIRCONDITION_MA6
+                    ]
 
 DEFAULT_NAME = "Xiaomi Mijia Air Conditioning C1"
 DATA_KEY = "climate.xiaomi_airconditioning_c1"
