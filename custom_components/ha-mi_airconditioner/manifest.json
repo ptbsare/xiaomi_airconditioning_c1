@@ -1,0 +1,10 @@
+{
+  "domain": "ha-mi_airconditioner",
+  "name": "ha-mi_airconditioner",
+  "documentation": "https://github.com/ptbsare/xiaomi_airconditioning_c1",
+  "requirements": [
+    "python-miio>=0.4.8"
+  ],
+  "dependencies": [],
+  "codeowners": ["@ptbsare"]
+}
