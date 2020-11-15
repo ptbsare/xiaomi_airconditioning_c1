@@ -61,7 +61,7 @@ MODELS_SUPPORTED = [MODEL_AIRCONDITION_MA2,
                     ]
 
 DEFAULT_NAME = "Xiaomi Mijia Air Conditioning C1"
-DATA_KEY = "climate.xiaomi_airconditioning_c1"
+DATA_KEY = "climate.米家空调"
 
 CONF_MIN_TEMP = "min_temp"
 CONF_MAX_TEMP = "max_temp"
