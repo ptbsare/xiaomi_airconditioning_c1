@@ -1,6 +1,6 @@
 {
   "domain": "xiaomi_airconditioning_c1",
-  "name": "Xiaomi Air Conditioning C1",
+  "name": "米家空调",
   "documentation": "https://github.com/LT21/xiaomi_airconditioning_c1",
   "requirements": [
     "construct==2.9.45",
